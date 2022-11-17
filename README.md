@@ -16,20 +16,40 @@ There is the land where I share toys and take a break.
 I'm learning building tools and AST recently.
 -->
 
-### Hi there, I'm Eliana 👋
+## Hi there, I'm Eliana 👋
 
 
 - 📖  Computer Engineering Student at the Catholic University of Angola - UCAN
 - 🔭  I'm currently working on being a better person every day.
 - 🌱  I’m currently learning `JavaScript`
 - 📫  How to reach me: 
-[![Instagram Badge](https://img.shields.io/badge/-@eliana__neto-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/eliana__neto/)](https://www.instagram.com/eliana__neto/)
-[![Twitter Badge](https://img.shields.io/badge/-@eliana__neto-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eliana__neto)](https://twitter.com/eliana__neto) 
-[![Linkedin Badge](https://img.shields.io/badge/-Eliana%20Neto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/eliana-neto-13361b207/)](https://www.linkedin.com/in/eliana-neto-13361b207/) 
+[![Instagram Badge](https://img.shields.io/badge/-@eliana__neto-6633cc?style=flat&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/eliana__neto/)](https://www.instagram.com/eliana__neto/)
+[![Twitter Badge](https://img.shields.io/badge/-@eliana__neto-6633cc?style=flat&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eliana__neto)](https://twitter.com/eliana__neto) 
+[![Linkedin Badge](https://img.shields.io/badge/-Eliana%20Neto-6633cc?style=flat&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/eliana-neto-13361b207/)](https://www.linkedin.com/in/eliana-neto-13361b207/) 
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-eliananeto29@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliananeto29@gmail.com)](mailto:eliananeto29@gmail.com)
 -->
 
+<h3>Things I work with</h3>
+<p>
+  <img alt="c" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="javascrip" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSql-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="apachenetbeanside" src="https://img.shields.io/badge/-Apache Netbeans IDE-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white" />
+  <img alt="canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+  <img alt="createreactapp" src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat&logo=createreactapp&logoColor=white" />
+  <img alt="dribbble" src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" />
+  <img alt="expo" src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img alt="pexels" src="https://img.shields.io/badge/-Pexels-05A081?style=flat&logo=pexels&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
 </p>
 <details>
     <summary>More about my coding life ❤️ 👩🏾‍💻</summary>
