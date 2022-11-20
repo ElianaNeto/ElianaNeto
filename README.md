@@ -18,7 +18,6 @@ I'm learning building tools and AST recently.
 
 ## Hi there, I'm Eliana 👋
 
-
 - 📖  Computer Engineering Student at the Catholic University of Angola - UCAN
 - 🔭  I'm currently working on being a better person every day.
 - 🌱  I’m currently learning `JavaScript`
@@ -46,6 +45,7 @@ I'm learning building tools and AST recently.
   <img alt="expo" src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="pexels" src="https://img.shields.io/badge/-Pexels-05A081?style=flat&logo=pexels&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
