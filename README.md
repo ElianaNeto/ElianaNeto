@@ -18,9 +18,9 @@ I'm learning building tools and AST recently.
 
 ## Hi there, I'm Eliana 👋
 
-- 📖  Computer Engineering Student at the Catholic University of Angola - UCAN
+- 📖  Computer Engineering Student at the Catholic University of Angola
 - 🔭  I'm currently working on being a better person every day.
-- 🌱  I’m currently learning `JavaScript`
+- 🌱  I’m currently learning `React`
 - 📫  How to reach me: 
 [![Instagram Badge](https://img.shields.io/badge/-@eliana__neto-6633cc?style=flat&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/eliana__neto/)](https://www.instagram.com/eliana__neto/)
 [![Twitter Badge](https://img.shields.io/badge/-@eliana__neto-6633cc?style=flat&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/eliana__neto)](https://twitter.com/eliana__neto) 
@@ -38,10 +38,6 @@ I'm learning building tools and AST recently.
   <img alt="javascrip" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSql-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="apachenetbeanside" src="https://img.shields.io/badge/-Apache Netbeans IDE-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white" />
-  <img alt="canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-  <img alt="createreactapp" src="https://img.shields.io/badge/-Create React App-09D3AC?style=flat&logo=createreactapp&logoColor=white" />
-  <img alt="dribbble" src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" />
   <img alt="expo" src="https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="pexels" src="https://img.shields.io/badge/-Pexels-05A081?style=flat&logo=pexels&logoColor=white" />
@@ -50,6 +46,9 @@ I'm learning building tools and AST recently.
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-429FE5?style=flat&logo=flutter&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white">
+  
 </p>
 <details>
     <summary>More about my coding life ❤️ 👩🏾‍💻</summary>
