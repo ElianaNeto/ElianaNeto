@@ -44,9 +44,11 @@ I'm learning building tools and AST recently.
   <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img alt="styled-components" src="https://img.shields.io/badge/-styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-429FE5?style=flat&logo=flutter&logoColor=white">
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white">
   
 </p>
