@@ -1,6 +1,7 @@
 ## Hi there, I'm Eliana 👋
 
 **Software Engineer & Integration Developer based in Luanda, Angola 🇦🇴**
+
 I’m a Computer Engineer passionate about building software that connects systems, APIs and people.
 Currently, I'm working as an **Integration Developer**, where I’m developing my skills in **MuleSoft, API development & API design, Java, DataWeave, Git, CI/CD & Cloud deployments and system integration**.
 
