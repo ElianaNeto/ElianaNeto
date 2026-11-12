@@ -1,9 +1,12 @@
 ## Hi there, I'm Eliana 👋
 
-**Software Engineer & Integration Developer based in Luanda, Angola 🇦🇴**
+**Software Engineer | Backend Development & Enterprise Integration 📍 Luanda, Angola 🇦🇴**
 
-I’m a Computer Engineer passionate about building software that connects systems, APIs and people.
-Currently, I'm working as an **Integration Developer**, where I’m developing my skills in **MuleSoft, API development & API design, Java, DataWeave, Git, CI/CD & Cloud deployments and system integration**.
+I'm a Computer Engineering graduate passionate about designing, developing and integrating software solutions.
+
+Currently working as an Integration Developer, focusing on API development, enterprise system integration and backend technologies. I enjoy understanding how systems communicate, designing integration solutions and building reliable software.
+
+I'm also a Salesforce Certified MuleSoft Developer – Level 1 (MCD Level 1), continuously expanding my knowledge of API architecture, integration patterns and software engineering best practices.
 
 #### Tech Stack
 
@@ -32,14 +35,4 @@ Currently, I'm working as an **Integration Developer**, where I’m developing m
   <a href="https://github.com/ElianaNeto">
     <img src="https://img.shields.io/badge/GitHub-ElianaNeto-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/eliana__neto/">
-    <img src="https://img.shields.io/badge/Instagram-@eliana__neto-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
 </p>
-
-<div align="center" >
-<a href="https://github.com/ElianaNeto">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ElianaNeto&theme=buefy-dark&hide_border=true"/>
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElianaNeto&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/> <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianaNeto&layout=compact&langs_count=7&theme=material-palenight"/>-->
-</div>
